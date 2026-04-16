@@ -103,7 +103,7 @@ Write a SQL query:
 ## Mockups
 
 ### Result
-![Result_Example](mockups/result_example.png)
+![Result_Example](result_example.png)
 
 ---
 
