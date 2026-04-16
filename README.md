@@ -1,9 +1,5 @@
 # Travel Booking Data Engineering Challenge
 
-Welcome! This take-home test is designed to evaluate your data engineering skills through a realistic travel booking data scenario.
-
-**⏱️ Estimated Time:** 45 minutes maximum
-
 ## 📋 Overview
 
 You work for a travel company that processes booking data from multiple sources. Your task is to clean, transform, and analyze booking data that has various quality issues.
