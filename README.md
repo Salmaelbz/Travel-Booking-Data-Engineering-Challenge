@@ -102,7 +102,14 @@ Write a SQL query:
 - Query executes without errors
 - Results are meaningful and correctly calculated
 - Appropriate use of SQL constructs (GROUP BY, HAVING, aggregations, etc.)
+---
 
+## Mockups
+
+### Result
+![Result_Example](mockups/result_example.png)
+
+---
 
 
 ## 📤 Submission Instructions
@@ -136,6 +143,7 @@ If you have questions about:
 - **Handle edge cases** - real data is messy!
 - **Document your decisions** - explain your reasoning
 - **Test your code** - make sure it runs end-to-end
+  
 
 Good luck! 🚀
 #
