@@ -1,0 +1,4 @@
+# Dependencies for the ETL pipeline
+# pandas: data manipulation, cleaning, and transformation
+# sqlite3: part of Python standard library, no install needed
+pandas>=2.0.0
